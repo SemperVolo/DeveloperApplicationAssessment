@@ -1,4 +1,4 @@
-# DeveloperApplicationAssessment
+# Aries Developer Application Assessment
 
 Please see below steps for overview/instructions on setting up necessary data for running the developer application assessment:
 

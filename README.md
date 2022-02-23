@@ -7,9 +7,8 @@ Please see below steps for overview/instructions on setting up necessary data fo
 
 1) General Info
 
-	a) For this project, I had SQL Server installed and was using (localdb)/MSSQLLocalDB (referenced in appsettings) as the db server
-	b) Extract SankalpGodugu_DeveloperApplicationAssessment.zip to a location on your computer
-	c) You will see 3 folders within
+	a) Download and Extract SankalpGodugu_DeveloperApplicationAssessment.zip (from this repository) to a location on your computer.
+	b) Expand the Aries_DevAppAssessment folder, and you will see 3 folders within:
 		> MyWebApi (API for interfacing between web app and database)
 		> MyWebApp (Main web app)
 		> SQL_Scripts (for creating relevant tables)
